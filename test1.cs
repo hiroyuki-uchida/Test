@@ -7,6 +7,11 @@ public class Hoge
     public void Fuga()
     {
         Debug.Log("Piyo");
-        mSomeValue++;
+        Count();
+    }
+
+    private void Count()
+    {
+        mSomveValue++;
     }
 }
