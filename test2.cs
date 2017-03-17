@@ -11,5 +11,10 @@ namespace Foo
             Debug.Log("test");
             mCounter++;
         }
+
+        public void GetCounter()
+        {
+            return mCounter;
+        }
     }
 }
