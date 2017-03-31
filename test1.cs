@@ -6,7 +6,7 @@ public class Hoge
 
     public void Fuga()
     {
-        Debug.Log("Piyo");
+        Debug.Log("Piyomi");
         Count();
     }
 
